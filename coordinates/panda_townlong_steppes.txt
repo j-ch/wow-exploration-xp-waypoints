@@ -1,0 +1,35 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+79.0, 91.9 - Shallowstep Pass
+75.1, 84.3 - Gao-Ran Battlefront
+75.1, 84.3 - Gao-Ran Battlefront
+67.2, 81.2 - Dusklight Hollow
+65.2, 85.7 - Ambermarsh
+56.8, 85.8 - The Widening Deep
+54.0, 78.9 - Rensai's Watchpost
+52.5, 82.3 - Farwatch Overlook
+46.1, 87.8 - Sik'vess
+49.2, 71.0 - Shado-Pan Garrison
+43.2, 64.3 - Niuzao Temple
+41.9, 50.2 - Sra'thik Incursion
+36.1, 51.0 - Fields of Niuzao
+32.8, 60.9 - Niuzao Catacombs
+32.1, 70.3 - Forward Assault Camp
+34.0, 78.9 - Hollowed Out Tree
+28.9, 64.2 - Westersea
+28.9, 64.2 - Westersea
+18.5, 56.4 - The Feeding Pits
+25.8, 38.6 - Sra'thik Swarmdock
+52.5, 50.8 - Deadtalker's Plateau
+54.9, 55.3 - Kri'vess
+62.2, 45.2 - Fire Camp Gai-Cho
+67.3, 41.8 - Fire Camp Osul
+71.0, 57.7 - Longying Outpost
+68.1, 65.5 - Lower Sumprushes
+69.9, 71.0 - Upper Sumprushes
+79.8, 73.8 - Hatred's Vice
+

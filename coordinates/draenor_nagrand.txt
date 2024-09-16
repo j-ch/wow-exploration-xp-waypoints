@@ -1,0 +1,83 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+73.6, 26.4 - Skysong Lake
+73.3, 21.2 - Throne of the Elements
+77.3, 18.9 - Elemental Plateau
+56.3, 42.6 - Lok-rath
+49.9, 27.5 - Earthshaker Gorge
+54.3, 15.2 - The Ring of Blood
+56.1, 17.0 - Gorian Proving Grounds
+35.7, 36.3 - Highmaul
+32.3, 36.6 - The Coliseum
+29.3, 31.4 - The Underbelly
+26.0, 17.6 - Highmaul Harbor
+27.3, 22.6 - Gorian Strand
+24.6, 33.9 - Market District
+24.9, 32.4 - The Path of Victors
+25.3, 39.7 - The Imperator's Favor
+37.5, 52.9 - Ancestral Grounds
+47.6, 55.5 - Spirit Woods
+48.0, 57.9 - Mok'gor
+46.7, 62.1 - Oshu'gun
+46.7, 62.1 - Oshu'gun
+40.3, 68.7 - Ironfist Harbor
+46.6, 76.5 - Windroc Bay
+56.6, 64.8 - Shadowfall Canyon
+49.2, 47.8 - Riverside Post
+64.0, 50.0 - Stonecrag Gorge
+65.4, 63.7 - Telaar
+67.2, 72.4 - Grommashar
+74.9, 61.5 - Sabermaw
+77.8, 53.0 - The Ring of Trials
+84.2, 38.1 - Eastwind Gulch
+85.8, 27.9 - Spiteleaf Thicket
+86.4, 25.6 - Zangar Shore
+91.0, 31.7 - Time-Lost Glade
+88.6, 43.4 - Hemet's Happy Hunting Grounds
+87.1, 51.1 - Hallvalor
+80.9, 61.4 - Anguish Point
+81.6, 70.2 - Mar'gok's Overwatch
+88.7, 67.2 - Warsong Lookout
+
+/way 73.6, 26.4
+/way 73.3, 21.2
+/way 77.3, 18.9
+/way 56.3, 42.6
+/way 49.9, 27.5
+/way 54.3, 15.2
+/way 56.1, 17.0
+/way 35.7, 36.3
+/way 32.3, 36.6
+/way 29.3, 31.4
+/way 26.0, 17.6
+/way 27.3, 22.6
+/way 24.6, 33.9
+/way 24.9, 32.4
+/way 25.3, 39.7
+/way 37.5, 52.9
+/way 47.6, 55.5
+/way 48.0, 57.9
+/way 46.7, 62.1
+/way 46.7, 62.1
+/way 40.3, 68.7
+/way 46.6, 76.5
+/way 56.6, 64.8
+/way 49.2, 47.8
+/way 64.0, 50.0
+/way 65.4, 63.7
+/way 67.2, 72.4
+/way 74.9, 61.5
+/way 77.8, 53.0
+/way 84.2, 38.1
+/way 85.8, 27.9
+/way 86.4, 25.6
+/way 91.0, 31.7
+/way 88.6, 43.4
+/way 87.1, 51.1
+/way 80.9, 61.4
+/way 81.6, 70.2
+/way 88.7, 67.2

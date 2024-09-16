@@ -1,0 +1,83 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+33.0, 42.0 - Stony Highlands
+33.0, 37.5 - Blackbeak Overlook
+37.1, 31.7 - Forsaken Foothold
+36.6, 28.9 - Cove of Nashal
+46.9, 26.8 - Nastrondir
+48.0, 23.9 - Whisperwind's Citadel
+51.5, 27.5 - Stormtorn Foothills
+54.1, 30.3 - Blackfeather Altar
+59.4, 30.3 - Storm's Reach
+65.7, 24.4 - Loch Varmad
+66.6, 27.1 - Straits of Hydrannon
+79.3, 12.5 - Shield's Rest
+66.5, 39.4 - Field of Fallen Kings
+70.7, 43.4 - Haustvald
+70.3, 52.2 - The Runewood
+75.2, 54.9 - Dreyrgrot
+76.0, 51.5 - Citrine Bay
+79.7, 57.9 - Morheim
+81.4, 55.6 - Bilgefin Shore
+71.9, 66.4 - Gates of Valor
+63.0, 73.9 - Skold-Ashil
+55.3, 61.4 - Ashil's Bay
+53.8, 60.6 - Amberfall Mesa
+51.1, 57.4 - Talonrest
+54.8, 49.1 - Helmouth Shallows
+48.9, 41.7 - Terrace of the Watchers
+47.5, 42.4 - Valley of the Sword
+47.5, 44.7 - Aggramar's Vault
+44.3, 61.1 - Stonescar Gorge
+45.0, 59.4 - Cullen's Post
+44.7, 64.9 - Hrydshal
+51.8, 70.3 - Dreadwake's Landing
+53.0, 73.8 - Jotunnwood
+47.4, 76.7 - Galebroken Path
+35.6, 54.5 - Weeping Bluffs
+38.0, 64.8 - Lorna's Watch
+36.4, 68.0 - Kingsfall Pass
+26.9, 38.6 - Stormheim
+
+/way 33.0, 42.0
+/way 33.0, 37.5
+/way 37.1, 31.7
+/way 36.6, 28.9
+/way 46.9, 26.8
+/way 48.0, 23.9
+/way 51.5, 27.5
+/way 54.1, 30.3
+/way 59.4, 30.3
+/way 65.7, 24.4
+/way 66.6, 27.1
+/way 79.3, 12.5
+/way 66.5, 39.4
+/way 70.7, 43.4
+/way 70.3, 52.2
+/way 75.2, 54.9
+/way 76.0, 51.5
+/way 79.7, 57.9
+/way 81.4, 55.6
+/way 71.9, 66.4
+/way 63.0, 73.9
+/way 55.3, 61.4
+/way 53.8, 60.6
+/way 51.1, 57.4
+/way 54.8, 49.1
+/way 48.9, 41.7
+/way 47.5, 42.4
+/way 47.5, 44.7
+/way 44.3, 61.1
+/way 45.0, 59.4
+/way 44.7, 64.9
+/way 51.8, 70.3
+/way 53.0, 73.8
+/way 47.4, 76.7
+/way 35.6, 54.5
+/way 38.0, 64.8
+/way 36.4, 68.0
+/way 26.9, 38.6

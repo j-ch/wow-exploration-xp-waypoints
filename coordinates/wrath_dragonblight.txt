@@ -1,0 +1,93 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+90.1, 75.5 - Eldritch Heights
+87.2, 72.4 - The Forgotten Shore
+74.1, 72.4 - New Hearthglen
+77.1, 62.4 - Venomspite
+69.4, 66.2 - The Dragon Wastes
+64.6, 73.9 - Emerald Dragonshrine
+61.1, 56.1 - Wyrmrest Temple
+67.8, 52.3 - The Mirror of Dawn
+75.7, 51.8 - Wintergarde Keep
+74.0, 44.3 - Bronze Dragonshrine
+84.3, 41.2 - Onslaught Base Camp
+84.8, 45.0 - The Carrion Fields
+87.0, 51.1 - Naxxramas
+91.1, 35.4 - Dragonspine Tributary
+83.9, 26.3 - Light's Trust
+88.3, 20.1 - Jintha'kalar
+75.2, 27.0 - Scarlet Point
+66.6, 26.3 - Path of the Titans
+64.9, 27.3 - 7th Legion Front
+64.1, 22.8 - The Crystal Vice
+54.8, 23.6 - Nozzlerust Post
+51.4, 18.7 - Coldwind Heights
+41.6, 17.0 - Kor'kron Vanguard
+37.1, 18.5 - Angrathar the Wrathgate
+41.1, 21.7 - The Court of Skulls
+37.5, 28.1 - Fordragon Hold
+38.0, 30.1 - Obsidian Dragonshrine
+37.3, 31.9 - Maw of Neltharion
+53.7, 34.9 - Galakrond's Rest
+48.6, 49.7 - Ruby Dragonshrine
+48.6, 57.3 - Snowfall Glade
+54.9, 66.8 - Azure Dragonshrine
+54.5, 72.9 - Moa'ki Harbor
+41.7, 69.5 - Lake Indu'le
+32.4, 68.9 - Lothalor Woodlands
+26.1, 64.4 - Glittering Strand
+28.3, 58.0 - Stars' Rest
+36.0, 46.7 - Agmar's Hammer
+26.9, 45.9 - Icemist Village
+25.8, 48.9 - The Pit of Narjun
+22.8, 59.0 - Moonrest Gardens
+14.4, 46.5 - Westwind Refugee Camp
+12.0, 52.4 - Coldwind Pass
+
+/way 90.1, 75.5
+/way 87.2, 72.4
+/way 74.1, 72.4
+/way 77.1, 62.4
+/way 69.4, 66.2
+/way 64.6, 73.9
+/way 61.1, 56.1
+/way 67.8, 52.3
+/way 75.7, 51.8
+/way 74.0, 44.3
+/way 84.3, 41.2
+/way 84.8, 45.0
+/way 87.0, 51.1
+/way 91.1, 35.4
+/way 83.9, 26.3
+/way 88.3, 20.1
+/way 75.2, 27.0
+/way 66.6, 26.3
+/way 64.9, 27.3
+/way 64.1, 22.8
+/way 54.8, 23.6
+/way 51.4, 18.7
+/way 41.6, 17.0
+/way 37.1, 18.5
+/way 41.1, 21.7
+/way 37.5, 28.1
+/way 38.0, 30.1
+/way 37.3, 31.9
+/way 53.7, 34.9
+/way 48.6, 49.7
+/way 48.6, 57.3
+/way 54.9, 66.8
+/way 54.5, 72.9
+/way 41.7, 69.5
+/way 32.4, 68.9
+/way 26.1, 64.4
+/way 28.3, 58.0
+/way 36.0, 46.7
+/way 26.9, 45.9
+/way 25.8, 48.9
+/way 22.8, 59.0
+/way 14.4, 46.5
+/way 12.0, 52.4

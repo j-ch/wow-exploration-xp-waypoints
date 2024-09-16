@@ -1,0 +1,30 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+18.4, 45.4 - Violet Stand
+13.5, 33.8 - The Great Tree
+12.7, 23.8 - Crystalsong Forest
+18.7, 20.0 - The Decrepit Flow
+25.0, 23.7 - Forlorn Woods
+28.4, 43.6 - The Twilight Rivulet
+29.1, 50.7 - The Azure Front
+59.3, 54.0 - The Unbound Thicket
+74.0, 77.5 - Windrunner's Overlook
+74.3, 62.1 - Ruins of Shandaral
+77.9, 49.9 - Sunreaver's Command
+
+
+/way 18.4, 45.4
+/way 13.5, 33.8
+/way 12.7, 23.8
+/way 18.7, 20.0
+/way 25.0, 23.7
+/way 28.4, 43.6
+/way 29.1, 50.7
+/way 59.3, 54.0
+/way 74.0, 77.5
+/way 74.3, 62.1
+/way 77.9, 49.9

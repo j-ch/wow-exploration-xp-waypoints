@@ -1,0 +1,35 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+24.7, 20.3 - Ruins Rise
+26.6, 24.7 - Ruins of Guo-Lai
+41.8, 20.0 - The Golden Stair
+59.4, 23.6 - The Golden Terrace
+83.4, 59.6 - Shrine of Seven Stars
+56.8, 54.3 - The Golden Pagoda
+39.5, 47.4 - Whitepetal Lake
+48.9, 64.2 - Tu Shen Burial Ground
+38.8, 75.7 - Mistfall Village
+28.2, 70.6 - Sunblossom Hill
+19.2, 74.2 - Setting Sun Garrison
+15.3, 47.9 - The Five Sisters
+10.7, 42.5 - Autumnshade Ridge
+31.0, 57.3 - Winterbough Glade
+
+/way 24.7, 20.3
+/way 26.6, 24.7
+/way 41.8, 20.0
+/way 59.4, 23.6
+/way 83.4, 59.6
+/way 56.8, 54.3
+/way 39.5, 47.4
+/way 48.9, 64.2
+/way 38.8, 75.7
+/way 28.2, 70.6
+/way 19.2, 74.2
+/way 15.3, 47.9
+/way 10.7, 42.5
+/way 31.0, 57.3

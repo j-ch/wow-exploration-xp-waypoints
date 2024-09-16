@@ -1,0 +1,101 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+21.6, 20.8 - Secluded Glade
+25.0, 15.6 - The Cursed Woods
+25.0, 8.6 - Eventide Landing
+27.3, 9.2 - Eventide Bay
+38.9, 24.1 - Lunarfall
+21.1, 28.0 - Gul'var
+35.5, 15.4 - Gloomshade Grove
+46.3, 25.8 - Exile's Rise
+49.1, 23.8 - Mount Kra'gor
+50.4, 21.6 - Deadwalker Pass
+53.1, 19.4 - Umbrafen
+58.8, 21.4 - Rangari Enclave
+60.7, 20.4 - Exarch's Rise
+63.9, 25.2 - Altar of Sha'tar
+60.7, 29.4 - Elodor
+61.6, 33.0 - Hills of Valuun
+65.2, 41.1 - K'arani Terrace
+72.6, 39.5 - Gardens of Eternity
+75.6, 42.3 - Karabor
+69.7, 46.1 - Path of the Light
+69.8, 50.2 - Tranquil Court
+72.6, 53.2 - The Coliseum of Light
+62.7, 61.5 - The Shimmer Moor
+58.2, 58.3 - The Draakorium
+54.3, 67.5 - Dyvari Overgrowth
+54.3, 68.6 - Blademoon Bloom
+58.2, 78.8 - Darktide Roost
+54.4, 79.1 - Darktide Strait
+51.8, 79.1 - Socrethar's Rise
+42.6, 78.2 - Socrethar's Rise
+41.8, 80.6 - Isle of Shadows
+38.5, 66.3 - Shaz'gul
+42.6, 64.0 - The Burial Fields
+41.7, 54.3 - Twilight Glade
+43.4, 52.0 - The Nightmarsh
+48.2, 47.7 - Light's Fall
+47.4, 45.6 - Waning Crescent
+47.9, 41.6 - Embaari Village
+48.7, 37.5 - Teluuna Observatory
+42.4, 42.5 - Embaari Village
+39.7, 52.9 - Moonwillow Peak
+34.1, 44.6 - Moonwillow Peak
+29.4, 41.2 - Terrace of the Stars
+26.4, 44.3 - Anguish Fortress
+27.6, 33.7 - Moonflower Valley
+26.7, 33.6 - Bloodthorn Hill
+29.7, 26.1 - Starfall Outpost
+
+/way 21.6, 20.8
+/way 25.0, 15.6
+/way 25.0, 8.6
+/way 27.3, 9.2
+/way 38.9, 24.1
+/way 21.1, 28.0
+/way 35.5, 15.4
+/way 46.3, 25.8
+/way 49.1, 23.8
+/way 50.4, 21.6
+/way 53.1, 19.4
+/way 58.8, 21.4
+/way 60.7, 20.4
+/way 63.9, 25.2
+/way 60.7, 29.4
+/way 61.6, 33.0
+/way 65.2, 41.1
+/way 72.6, 39.5
+/way 75.6, 42.3
+/way 69.7, 46.1
+/way 69.8, 50.2
+/way 72.6, 53.2
+/way 62.7, 61.5
+/way 58.2, 58.3
+/way 54.3, 67.5
+/way 54.3, 68.6
+/way 58.2, 78.8
+/way 54.4, 79.1
+/way 51.8, 79.1
+/way 42.6, 78.2
+/way 41.8, 80.6
+/way 38.5, 66.3
+/way 42.6, 64.0
+/way 41.7, 54.3
+/way 43.4, 52.0
+/way 48.2, 47.7
+/way 47.4, 45.6
+/way 47.9, 41.6
+/way 48.7, 37.5
+/way 42.4, 42.5
+/way 39.7, 52.9
+/way 34.1, 44.6
+/way 29.4, 41.2
+/way 26.4, 44.3
+/way 27.6, 33.7
+/way 26.7, 33.6
+/way 29.7, 26.1

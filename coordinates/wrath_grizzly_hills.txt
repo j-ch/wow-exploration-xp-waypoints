@@ -1,0 +1,93 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+43.3, 25.7 - Drak'atal Passage
+49.2, 34.0 - Heartwood Trading Post
+52.1, 21.0 - Ursoc's Den
+55.3, 23.6 - Hollowstone Mine
+57.4, 27.2 - Westfall Brigade Encampment
+63.0, 24.8 - Thor Modan
+66.9, 17.2 - Boulder Hills
+71.6, 22.9 - Drakil'jin Ruins
+73.4, 33.0 - Harkor's Camp
+73.0, 32.2 - Eastwind Shore
+79.2, 35.7 - Ruins of Tethys
+84.1, 27.5 - Bloodmoon Isle
+86.9, 26.1 - Shadowfang Tower
+74.0, 42.5 - The Path of Iron
+68.4, 39.8 - Redwood Trading Post
+76.8, 48.5 - Prospector's Point
+76.3, 53.9 - Dun Argol
+66.8, 62.3 - Heart's Blood Shrine
+59.6, 51.4 - Ashwood Post
+64.2, 44.0 - Solstice Village
+57.2, 42.3 - White Pine Trading Post
+55.4, 42.0 - Grizzlemaw
+49.2, 55.5 - Rage Fang Shrine
+40.6, 51.7 - Vordrassil's Heart
+34.7, 55.6 - Aspen Grove Post
+33.6, 48.8 - Vordrassil's Limb
+35.2, 42.8 - Blue Sky Logging Grounds
+27.7, 35.3 - Silverbrook
+23.5, 32.1 - Silverbrook Hills
+17.9, 27.1 - Drak'Tharon Keep
+15.0, 35.0 - Zeb'Halak
+14.2, 37.5 - Zim'bo's Hideout
+16.1, 47.9 - Granite Springs
+28.3, 45.7 - Vordrassil's Tears
+31.3, 57.8 - Amberpine Lodge
+27.4, 63.3 - Blackriver Logging Camp
+22.8, 64.7 - The Conquest Pit
+22.4, 64.4 - Conquest Hold
+13.8, 60.5 - Ruins of Drak'Zin
+15.9, 65.2 - Evergreen Trading Post
+15.1, 76.6 - Venture Bay
+30.4, 75.8 - Voldrune
+36.2, 67.8 - Forest's Edge Post
+
+/way 43.3, 25.7
+/way 49.2, 34.0
+/way 52.1, 21.0
+/way 55.3, 23.6
+/way 57.4, 27.2
+/way 63.0, 24.8
+/way 66.9, 17.2
+/way 71.6, 22.9
+/way 73.4, 33.0
+/way 73.0, 32.2
+/way 79.2, 35.7
+/way 84.1, 27.5
+/way 86.9, 26.1
+/way 74.0, 42.5
+/way 68.4, 39.8
+/way 76.8, 48.5
+/way 76.3, 53.9
+/way 66.8, 62.3
+/way 59.6, 51.4
+/way 64.2, 44.0
+/way 57.2, 42.3
+/way 55.4, 42.0
+/way 49.2, 55.5
+/way 40.6, 51.7
+/way 34.7, 55.6
+/way 33.6, 48.8
+/way 35.2, 42.8
+/way 27.7, 35.3
+/way 23.5, 32.1
+/way 17.9, 27.1
+/way 15.0, 35.0
+/way 14.2, 37.5
+/way 16.1, 47.9
+/way 28.3, 45.7
+/way 31.3, 57.8
+/way 27.4, 63.3
+/way 22.8, 64.7
+/way 22.4, 64.4
+/way 13.8, 60.5
+/way 15.9, 65.2
+/way 15.1, 76.6
+/way 30.4, 75.8
+/way 36.2, 67.8

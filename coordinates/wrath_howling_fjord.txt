@@ -1,0 +1,105 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+24.5, 11.2 - Howling Fjord
+Aura loaded
+29.0, 14.8 - Rivenwood
+30.7, 13.1 - Gjalerbron
+31.6, 8.2 - Gjalerhorn
+31.2, 23.6 - Steel Gate
+25.7, 24.2 - Apothecary Camp
+24.7, 23.9 - Chillmere Coast
+21.2, 35.1 - Shattered Straits
+28.8, 38.2 - Whisper Gulch
+32.2, 40.3 - Westguard Keep
+43.9, 37.0 - Skorn
+40.3, 47.0 - Ember Clutch
+31.8, 60.4 - The Isle of Spears
+24.9, 57.4 - Kamagua
+30.2, 72.5 - Twin Shores
+33.1, 77.2 - Garvan's Reef
+34.5, 80.1 - Scalawag Point
+39.7, 70.1 - Sorlof's Strand
+40.5, 60.6 - The Ancient Lift
+44.0, 58.1 - Ember Spear Tower
+48.1, 55.8 - Halgrind
+56.0, 47.2 - Utgarde Keep
+56.6, 52.2 - Wyrmskull Village
+58.8, 61.3 - Valgarde
+56.0, 66.2 - New Agamand
+59.9, 81.2 - Shield Hill
+62.1, 62.7 - Daggercap Bay
+67.5, 61.0 - Ghostblade Post
+72.1, 69.5 - Baelgun's Excavation Site
+83.5, 90.6 - The Frozen Sea
+74.3, 64.3 - Explorers' League Outpost
+67.9, 55.5 - Nifflevar
+64.2, 39.6 - Baleheim
+69.7, 40.6 - Balejar Watch
+71.0, 39.0 - Vengeance Lift
+78.9, 46.9 - Ivald's Ruin
+81.2, 42.2 - Derelict Strand
+79.6, 36.7 - Bleeding Vale
+78.7, 30.4 - Vengeance Landing
+72.3, 28.6 - Giants' Run
+64.8, 19.9 - Caldemere Lake
+68.0, 10.8 - Frostblade Peak
+72.8, 5.6 - The Broken Bluffs
+62.8, 17.5 - Fort Wildervar
+61.4, 23.0 - The Frozen Glade
+52.4, 27.3 - The Vibrant Glade
+53.5, 18.6 - The Twisted Glade
+49.2, 11.2 - Camp Winterhoof
+41.3, 19.4 - Winter's Breath Lake
+
+/way 29.0, 14.8
+/way 30.7, 13.1
+/way 31.6, 8.2 
+/way 31.2, 23.6
+/way 25.7, 24.2
+/way 24.7, 23.9
+/way 21.2, 35.1
+/way 28.8, 38.2
+/way 32.2, 40.3
+/way 43.9, 37.0
+/way 40.3, 47.0
+/way 31.8, 60.4
+/way 24.9, 57.4
+/way 30.2, 72.5
+/way 33.1, 77.2
+/way 34.5, 80.1
+/way 39.7, 70.1
+/way 40.5, 60.6
+/way 44.0, 58.1
+/way 48.1, 55.8
+/way 56.0, 47.2
+/way 56.6, 52.2
+/way 58.8, 61.3
+/way 56.0, 66.2
+/way 59.9, 81.2
+/way 62.1, 62.7
+/way 67.5, 61.0
+/way 72.1, 69.5
+/way 83.5, 90.6
+/way 74.3, 64.3
+/way 67.9, 55.5
+/way 64.2, 39.6
+/way 69.7, 40.6
+/way 71.0, 39.0
+/way 78.9, 46.9
+/way 81.2, 42.2
+/way 79.6, 36.7
+/way 78.7, 30.4
+/way 72.3, 28.6
+/way 64.8, 19.9
+/way 68.0, 10.8
+/way 72.8, 5.6 
+/way 62.8, 17.5
+/way 61.4, 23.0
+/way 52.4, 27.3
+/way 53.5, 18.6
+/way 49.2, 11.2
+/way 41.3, 19.4

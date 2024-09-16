@@ -1,0 +1,94 @@
+26.5, 63.7 - Highmountain
+
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+26.2, 59.6 - Nightwatcher's Perch
+29.3, 53.4 - The Ettinwalk
+30.3, 45.8 - Cliffhorn Watch
+28.2, 44.2 - Highmountain Burial Ground
+28.7, 45.1 - Rockaway Coast
+27.4, 37.3 - Blind Marshlands
+29.7, 29.2 - Feltotem
+34.2, 23.8 - Misty Coast
+41.8, 10.6 - Shipwreck Cove
+52.1, 12.1 - Clackbrine Coast
+56.0, 18.9 - Rockaway Shallows
+57.7, 24.4 - Rockaway Shelf
+57.2, 28.5 - Prepfoot Compound
+56.5, 45.5 - Sepulcher of the Sky
+53.9, 44.3 - Skyhorn
+50.1, 40.9 - Darkfeather Valley
+48.5, 38.4 - The Haglands
+47.6, 34.5 - Bloodhunt Highland
+42.1, 32.7 - The Witchwood
+38.5, 41.1 - Fields of An'she
+37.0, 46.3 - Fields of An'she
+39.4, 51.9 - Nesingwary's Retreat
+39.6, 54.1 - Sanderhoof's Ledge
+72.4, 81.6 - Trueshot Lodge
+38.0, 55.0 - Sylvan Falls
+40.2, 57.9 - Whitewater Wash
+42.4, 58.3 - Earthmother's Bounty
+27.8, 29.8 - Thunder Totem
+37.2, 66.6 - Sylvan Falls
+42.4, 70.7 - Path of Huln
+23.8, 42.9 - Neltharion's Vault
+46.7, 79.6 - Highmountain Peak
+48.4, 76.0 - Greystone
+49.8, 78.9 - Frosthoof Watch
+57.0, 90.7 - Highmountain Summit
+56.8, 84.0 - Ironhorn Enclave
+54.7, 70.5 - Snowblind Mesa
+54.4, 70.2 - Snowmane Village
+57.0, 59.8 - Sunfrost Glade
+57.6, 61.9 - Cordana's Apex
+58.6, 64.6 - Stonehoof Watch
+59.0, 69.3 - Snowblind Cliffs
+
+
+/way 26.2, 59.6
+/way 29.3, 53.4
+/way 30.3, 45.8
+/way 28.2, 44.2
+/way 28.7, 45.1
+/way 27.4, 37.3
+/way 29.7, 29.2
+/way 34.2, 23.8
+/way 41.8, 10.6
+/way 52.1, 12.1
+/way 56.0, 18.9
+/way 57.7, 24.4
+/way 57.2, 28.5
+/way 56.5, 45.5
+/way 53.9, 44.3
+/way 50.1, 40.9
+/way 48.5, 38.4
+/way 47.6, 34.5
+/way 42.1, 32.7
+/way 38.5, 41.1
+/way 37.0, 46.3
+/way 39.4, 51.9
+/way 39.6, 54.1
+/way 72.4, 81.6
+/way 38.0, 55.0
+/way 40.2, 57.9
+/way 42.4, 58.3
+/way 27.8, 29.8
+/way 37.2, 66.6
+/way 42.4, 70.7
+/way 23.8, 42.9
+/way 46.7, 79.6
+/way 48.4, 76.0
+/way 49.8, 78.9
+/way 57.0, 90.7
+/way 56.8, 84.0
+/way 54.7, 70.5
+/way 54.4, 70.2
+/way 57.0, 59.8
+/way 57.6, 61.9
+/way 58.6, 64.6
+/way 59.0, 69.3

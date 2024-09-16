@@ -1,0 +1,59 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+21.4, 34.6 - Snowdrift Plains
+Aura loaded
+25.4, 33.6 - The Storm Peaks
+30.9, 36.9 - Bouldercrag's Refuge
+34.0, 34.9 - Temple of Wisdom
+37.2, 31.3 - Ulduar
+40.0, 27.1 - Halls of Stone
+45.2, 21.9 - Halls of Lightning
+41.9, 37.2 - Terrace of the Makers
+39.6, 42.8 - The Inventor's Library
+36.9, 49.4 - Grom'arsh Crash-Site
+33.9, 54.2 - Temple of Storms
+26.4, 49.9 - Nidavelir
+26.2, 61.3 - Valkyrion
+23.7, 58.3 - The Blighted Pool
+26.7, 66.8 - Frostgrip's Hollow
+27.2, 69.9 - Rohemdal Pass
+28.9, 76.4 - Frosthold
+30.8, 76.1 - Stormcrest
+36.9, 77.0 - Bor's Fall
+37.6, 85.5 - Snowblind Hills
+32.3, 83.5 - Torseg's Rest
+40.8, 85.9 - K3
+42.8, 82.1 - Garm's Bane
+35.7, 86.1 - Sparksocket Minefield
+39.5, 86.3 - Ricket's Folly
+40.4, 78.0 - Crystalweb Cavern
+46.2, 81.7 - Garm
+45.5, 74.2 - Snowblind Terrace
+41.9, 73.7 - Sifreldar Village
+42.2, 69.7 - The Forlorn Mine
+42.6, 64.8 - The Foot Steppes
+41.6, 62.4 - The Frigid Tomb
+41.2, 59.2 - Engine of the Makers
+46.8, 54.6 - Gimorak's Den
+48.3, 60.9 - Frosthowl Cavern
+47.0, 68.3 - The Forlorn Mine
+49.4, 68.4 - The Pit of the Fang
+54.9, 65.5 - Valley of Ancient Winters
+63.1, 60.9 - Dun Niffelem
+70.8, 61.4 - Frostfield Lake
+74.1, 63.1 - Fjorn's Anvil
+72.4, 52.6 - Thunderfall
+67.6, 50.7 - Camp Tunka'lo
+64.3, 50.2 - Plain of Echoes
+64.9, 46.3 - Temple of Life
+62.5, 41.2 - Frostfloe Deep
+56.7, 43.4 - Hall of the Shaper
+52.2, 57.4 - Temple of Winter
+46.7, 49.3 - Temple of Invention
+52.8, 43.2 - Temple of Order
+33.6, 39.6 - Mimir's Workshop
+

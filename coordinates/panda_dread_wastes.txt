@@ -1,0 +1,30 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+66.4, 68.1 - Chittering Coast
+68.5, 48.8 - The Horrid March
+67.6, 45.9 - Writhingwood
+70.2, 37.7 - Terrace of Gurthan
+54.2, 45.7 - Kypari Ik
+50.2, 56.8 - The Stinging Trail
+46.3, 53.0 - Amberglow Hollow
+41.4, 58.0 - The Briny Muck
+35.4, 72.7 - Zan'vess
+23.9, 86.0 - Whispering Stones
+30.2, 88.6 - Amber Quarry
+30.2, 88.6 - Amber Quarry
+25.2, 62.6 - Muckscale Shallows
+29.1, 42.4 - The Amber Womb
+32.3, 41.0 - Heart of Fear
+44.6, 44.1 - The Clutches of Shek'zeer
+37.1, 23.7 - Rikkitun Village
+36.7, 17.2 - Motherseed Pit
+43.8, 15.5 - Kor'vess
+50.5, 12.6 - The Sunset Brewgarden
+57.7, 20.0 - Kypari Vor
+59.6, 18.2 - Horror Clutch
+65.0, 15.4 - The Thundering Run
+

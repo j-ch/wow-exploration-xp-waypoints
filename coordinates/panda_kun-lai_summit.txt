@@ -1,0 +1,52 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+44.6, 86.4 - Firebough Nook
+40.9, 82.3 - Tallmug's Camp
+38.2, 79.8 - Kota Peak
+42.7, 69.3 - Kota Basecamp
+42.7, 69.3 - Kota Basecamp
+41.3, 67.7 - Shado-Li Basin
+45.3, 65.2 - The Dooker Dome
+35.7, 59.8 - Winter's Blossom
+35.9, 49.0 - Shado-Pan Monastery
+53.1, 44.7 - Valley of Emperors
+52.9, 46.6 - Tomb of Conquerors
+55.9, 46.1 - Tomb of Shadows
+63.1, 41.5 - Whispercloud Rise
+61.5, 39.4 - Zouchin Province
+60.7, 39.0 - Mogu'shan Terrace
+63.5, 29.0 - Zouchin Village
+67.9, 26.9 - The Zandalari Vanguard
+76.5, 16.0 - Isle of Reckoning
+76.2, 9.8 - Thunder's Call
+72.5, 37.6 - Zouchin Province
+72.5, 37.6 - Zouchin Province
+72.3, 39.1 - Kun-Lai Summit
+70.3, 45.0 - Temple of the White Tiger
+60.1, 54.6 - Garrosh'ar Advance
+58.1, 61.6 - One Keg
+58.3, 65.0 - The Burlap Trail
+51.8, 63.7 - Knucklethump Hole
+51.9, 67.7 - The Burlap Waystation
+52.6, 71.2 - The Deeper
+53.7, 83.4 - Westwind Rest
+55.1, 91.8 - Gate of the August Celestials
+58.6, 84.4 - Fire Camp Bataar
+57.7, 78.5 - Mogujia
+62.4, 80.6 - Eastwind Rest
+62.8, 86.3 - Chow Farmstead
+68.2, 86.5 - Inkgill Mere
+68.4, 86.2 - Inkgill Mere
+68.4, 86.2 - Inkgill Mere
+67.9, 72.9 - Muskpaw Ranch
+69.4, 67.0 - Fire Camp Yongqi
+71.2, 56.0 - Yinying Village
+71.7, 69.0 - Lao & Son's Yakwash
+73.2, 73.7 - Pranksters' Hollow
+73.4, 74.1 - The Autumn Plains
+72.6, 93.9 - Binan Village
+

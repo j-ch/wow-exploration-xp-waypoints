@@ -1,0 +1,65 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+69.6, 22.3 - Pillars of Fate
+73.1, 34.3 - Lost Veil Anzu
+70.1, 45.9 - Sethekk Hollow
+63.2, 36.1 - The Broken Spire
+55.4, 26.7 - Harvesting Pits
+60.0, 18.2 - The Howling Crag
+55.3, 13.8 - Skettis
+44.5, 23.5 - Zellek's Hut
+43.7, 24.4 - Veil Akraz
+43.5, 18.8 - Skettis
+39.1, 20.3 - Terokkar Pass
+34.4, 26.6 - Apexis Excavation
+30.9, 28.5 - Bladefist Hold
+31.8, 28.9 - The Thorn Pits
+32.5, 38.1 - The Writhing Mire
+39.6, 44.6 - Axefall
+39.3, 51.9 - Admiral Taylor's Garrison
+39.6, 59.6 - Southport
+50.2, 61.0 - Bloodmane Valley
+53.3, 59.5 - Dreadtalon Peak
+56.5, 56.0 - Ravenskar
+57.8, 54.3 - Veil Zekk
+62.7, 59.5 - Forlorn Delta
+65.4, 65.9 - The Evanescent Sea
+61.9, 70.0 - Pinchwhistle Gearworks
+59.8, 79.2 - Wreck of the Mother Lode
+59.9, 86.4 - Pinchwhistle Point
+49.9, 81.3 - The South Sea
+49.1, 77.0 - Bloodmane Pridelands
+
+/way 69.6, 22.3
+/way 73.1, 34.3
+/way 70.1, 45.9
+/way 63.2, 36.1
+/way 55.4, 26.7
+/way 60.0, 18.2
+/way 55.3, 13.8
+/way 44.5, 23.5
+/way 43.7, 24.4
+/way 43.5, 18.8
+/way 39.1, 20.3
+/way 34.4, 26.6
+/way 30.9, 28.5
+/way 31.8, 28.9
+/way 32.5, 38.1
+/way 39.6, 44.6
+/way 39.3, 51.9
+/way 39.6, 59.6
+/way 50.2, 61.0
+/way 53.3, 59.5
+/way 56.5, 56.0
+/way 57.8, 54.3
+/way 62.7, 59.5
+/way 65.4, 65.9
+/way 61.9, 70.0
+/way 59.8, 79.2
+/way 59.9, 86.4
+/way 49.9, 81.3
+/way 49.1, 77.0

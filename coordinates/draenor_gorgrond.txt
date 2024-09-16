@@ -1,0 +1,45 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+48.0, 88.2 - Deeproot
+46.8, 89.7 - Tailthrasher Basin
+42.0, 87.7 - The Compost Heap
+40.0, 83.4 - Evermorn Rise
+36.4, 76.9 - Gorgrond Pass
+38.3, 75.3 - Deadgrin
+38.9, 68.7 - Stonemaul Arena
+43.0, 52.5 - Gronn Canyon
+65.1, 50.7 - Naielle's Watch
+63.4, 54.0 - Iyun Weald
+63.8, 54.2 - Wildwood Wash
+60.8, 62.7 - Heart of the Fen
+61.3, 64.3 - Tangleheart
+53.6, 69.4 - Mistcreep Mire
+53.1, 60.1 - Highpass
+45.9, 70.1 - Beastwatch
+44.8, 71.2 - The Broken Spine
+43.4, 74.0 - The Fertile Ground
+42.4, 76.5 - Evermorn Springs
+
+/way 48.0, 88.2
+/way 46.8, 89.7
+/way 42.0, 87.7
+/way 40.0, 83.4
+/way 36.4, 76.9
+/way 38.3, 75.3
+/way 38.9, 68.7
+/way 43.0, 52.5
+/way 65.1, 50.7
+/way 63.4, 54.0
+/way 63.8, 54.2
+/way 60.8, 62.7
+/way 61.3, 64.3
+/way 53.6, 69.4
+/way 53.1, 60.1
+/way 45.9, 70.1
+/way 44.8, 71.2
+/way 43.4, 74.0
+/way 42.4, 76.5

@@ -1,0 +1,83 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+31.9, 90.1 - The Lost Passage
+29.9, 86.2 - Sholazar Basin
+24.6, 81.9 - Kartak's Hold
+29.0, 75.6 - Sparktouched Haven
+34.6, 75.3 - The Mosslight Pillar
+26.6, 70.9 - The Bones of Nozronn
+41.3, 68.9 - Wildgrowth Mangal
+46.9, 66.1 - River's Heart
+50.1, 61.4 - Lakeside Landing
+52.8, 80.4 - The Skyreach Pillar
+56.3, 85.7 - Wintergrasp River
+59.9, 81.7 - Sapphire Hive
+67.0, 71.9 - Hardknuckle Clearing
+56.3, 70.4 - Frenzyheart Hill
+62.8, 68.3 - Frenzyheart River
+65.1, 63.0 - The Lifeblood Pillar
+66.7, 64.4 - The Lost Lands
+71.0, 58.8 - The Sundered Shard
+76.9, 50.9 - Mosswalker Village
+79.8, 54.9 - Makers' Overlook
+75.6, 44.2 - The Avalanche
+68.0, 44.2 - Rainspeaker Rapids
+54.3, 56.2 - Rainspeaker Canopy
+56.2, 40.6 - Death's Hand Encampment
+50.8, 35.7 - The Glimmering Pillar
+57.8, 28.4 - The Bonefields
+46.8, 25.5 - The Savage Thicket
+45.6, 36.2 - Mistwhisper Refuge
+40.5, 24.0 - Spearborn Encampment
+38.8, 37.3 - Bittertide Lake
+21.6, 36.4 - The North Sea
+30.5, 32.4 - The Stormwright's Shelf
+29.0, 40.4 - The Makers' Perch
+30.5, 45.4 - The Path of the Lifewarden
+33.2, 45.8 - Swindlegrin's Dig
+32.3, 50.6 - The Suntouched Pillar
+26.1, 58.9 - Nesingwary Base Camp
+24.1, 60.7 - The Seabreach Flow
+
+/way 31.9, 90.1
+/way 29.9, 86.2
+/way 24.6, 81.9
+/way 29.0, 75.6
+/way 34.6, 75.3
+/way 26.6, 70.9
+/way 41.3, 68.9
+/way 46.9, 66.1
+/way 50.1, 61.4
+/way 52.8, 80.4
+/way 56.3, 85.7
+/way 59.9, 81.7
+/way 67.0, 71.9
+/way 56.3, 70.4
+/way 62.8, 68.3
+/way 65.1, 63.0
+/way 66.7, 64.4
+/way 71.0, 58.8
+/way 76.9, 50.9
+/way 79.8, 54.9
+/way 75.6, 44.2
+/way 68.0, 44.2
+/way 54.3, 56.2
+/way 56.2, 40.6
+/way 50.8, 35.7
+/way 57.8, 28.4
+/way 46.8, 25.5
+/way 45.6, 36.2
+/way 40.5, 24.0
+/way 38.8, 37.3
+/way 21.6, 36.4
+/way 30.5, 32.4
+/way 29.0, 40.4
+/way 30.5, 45.4
+/way 33.2, 45.8
+/way 32.3, 50.6
+/way 26.1, 58.9
+/way 24.1, 60.7

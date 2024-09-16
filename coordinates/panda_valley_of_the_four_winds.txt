@@ -1,0 +1,43 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+88.2, 19.8 - Yan-Zhe River
+84.0, 21.6 - Pang's Stead
+83.2, 18.1 - Thunderfoot Fields
+82.2, 26.2 - Thunderfoot Farm
+75.6, 35.3 - Shang's Stead
+81.6, 43.4 - Zhu's Descent
+73.4, 58.5 - Rumbling Terrace
+68.6, 43.3 - Mudmug's Place
+69.2, 34.4 - Sunsoaked Meadow
+67.4, 31.4 - Grassy Cline
+62.5, 26.5 - Pools of Purity
+60.9, 34.9 - New Cifera
+56.5, 32.8 - Gilded Fan
+50.9, 31.1 - The Heartland
+43.6, 27.8 - Cattail Lake
+35.3, 65.5 - Thirsty Alley
+40.0, 68.5 - Stormstout Brewery
+51.1, 73.4 - Winds' Edge
+52.6, 64.5 - The Imperial Granary
+56.7, 67.0 - Plain of Thieves
+60.4, 64.7 - The Gilding Stream
+61.6, 59.3 - Silken Fields
+55.1, 44.8 - Halfhill
+50.5, 53.0 - The Halfhill Market
+28.7, 71.3 - The Wild Plains
+20.8, 74.8 - The Torjari Pit
+17.6, 79.5 - Nesingwary's Safari
+16.8, 75.6 - Dustback Gorge
+12.9, 61.2 - Stoneplow Fields
+19.8, 56.1 - Stoneplow
+15.2, 40.9 - Paoquan Hollow
+26.7, 39.9 - Singing Marshes
+31.5, 39.2 - Skyrange
+32.3, 28.3 - Kunzen Village
+33.1, 20.2 - Kunzen Cave
+49.7, 51.4 - Verdant Belt
+

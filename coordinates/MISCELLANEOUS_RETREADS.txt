@@ -1,0 +1,95 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+32.8, 42.0 - Stony Highlands
+33.2, 37.2 - Blackbeak Overlook
+42.1, 45.8 - Valley of the Sword
+43.2, 37.4 - Nastrondir
+43.1, 35.8 - Nashal's Watch
+37.2, 31.9 - Forsaken Foothold
+37.2, 31.9 - Forsaken Foothold
+36.6, 30.1 - Cove of Nashal
+48.4, 22.9 - Whisperwind's Citadel
+50.3, 25.5 - Stormtorn Foothills
+54.0, 30.2 - Blackfeather Altar
+57.2, 29.8 - Storm's Reach
+64.8, 25.7 - Loch Varmad
+66.8, 26.6 - Watchman's Rock
+78.4, 12.3 - Shield's Rest
+65.2, 26.8 - Straits of Hydrannon
+67.3, 40.3 - Field of Fallen Kings
+69.4, 43.5 - Haustvald
+75.0, 48.5 - Citrine Bay
+75.4, 54.6 - Dreyrgrot
+79.2, 58.0 - Morheim
+82.0, 56.9 - Bilgefin Shore
+75.8, 64.4 - Bronzeleaf Thicket
+71.7, 66.1 - Gates of Valor
+62.5, 73.8 - Skold-Ashil
+62.5, 68.6 - Stormheim
+55.7, 62.0 - Ashil's Bay
+55.7, 62.0 - Ashil's Bay
+53.6, 60.7 - Amberfall Mesa
+51.1, 57.0 - Talonrest
+54.4, 49.7 - Helmouth Shallows
+51.9, 44.7 - Helmouth Cliffs
+49.0, 42.1 - Terrace of the Watchers
+47.1, 43.3 - Valley of the Sword
+35.7, 53.7 - Weeping Bluffs
+42.3, 59.7 - Stonescar Gorge
+44.9, 59.5 - Cullen's Post
+44.8, 64.8 - Hrydshal
+37.9, 63.3 - Lorna's Watch
+36.1, 68.3 - Kingsfall Pass
+47.1, 75.6 - Galebroken Path
+51.4, 70.3 - Dreadwake's Landing
+53.0, 73.9 - Jotunnwood
+48.5, 71.0 - Stormwing Rookery
+64.0, 34.7 - Crimson Thicket
+71.8, 47.0 - Jandvik
+66.4, 56.6 - Felborne Outpost
+74.3, 76.8 - Suramar Bay
+64.6, 69.5 - The Jeweled Estate
+64.6, 69.5 - The Jeweled Estate
+65.1, 66.2 - Suramar City
+59.1, 63.5 - Midnight Court
+57.2, 59.7 - The Gilded Market
+53.4, 58.5 - Moonbeam Causeway
+52.5, 60.2 - Sunset Park
+52.0, 56.0 - The Menagerie
+49.9, 58.9 - Terrace of Enlightenment
+48.4, 61.4 - Concourse of Destiny
+46.5, 61.6 - Terrace of Order
+45.1, 69.2 - Shimmershade Garden
+46.5, 69.3 - Evermoon Commons
+45.3, 74.1 - Artisan's Gallery
+49.2, 78.6 - Evermoon Bazaar
+49.8, 83.6 - Siren's Vigil
+49.6, 83.4 - Starcaller Retreat
+38.4, 84.6 - The Cliffroost
+37.4, 82.8 - Felsoul Hold
+34.2, 73.1 - The Lightbreaker
+18.3, 59.4 - Sundered Shoals
+20.8, 56.3 - Koralune Manor
+21.4, 51.1 - Ambervale
+21.4, 51.1 - Ambervale
+19.1, 43.0 - Falanaar
+20.6, 41.6 - Falanaar
+22.8, 40.6 - Temple of Fal'adora
+25.4, 32.6 - Irongrove Retreat
+25.8, 27.7 - Moonfall Approach
+27.8, 19.1 - Lower Gardens
+31.4, 17.4 - Moonfall Roost
+29.8, 14.0 - Starweaver's Sanctum
+29.4, 9.4 - Moonfall Overlook
+29.2, 8.6 - Moon Guard Stronghold
+41.4, 17.7 - The Lunar Crucible
+36.7, 19.8 - The Athenaeum
+36.5, 27.2 - Moonwhisper Gulch
+36.2, 46.6 - Ruins of Elune'eth
+41.5, 40.5 - Anora Hollow
+42.8, 38.3 - Tel'anor
+

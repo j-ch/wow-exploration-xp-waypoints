@@ -1,0 +1,97 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+63.9, 35.2 - Crimson Thicket
+65.9, 51.1 - Jandvik
+73.2, 47.8 - Azuregale Bay
+74.9, 77.7 - Suramar Bay
+64.0, 69.0 - The Jeweled Estate
+59.1, 63.5 - Midnight Court
+56.7, 57.8 - The Gilded Market
+53.3, 59.7 - Moonbeam Causeway
+51.8, 60.8 - Suramar City
+50.8, 59.6 - Terrace of Enlightenment
+52.7, 59.8 - Sunset Park
+52.0, 55.7 - The Menagerie
+48.1, 63.4 - Concourse of Destiny
+46.3, 61.8 - Terrace of Order
+45.9, 69.8 - Shimmershade Garden
+46.8, 70.1 - Evermoon Commons
+45.4, 75.8 - Artisan's Gallery
+48.5, 76.1 - Evermoon Bazaar
+49.7, 82.5 - Starcaller Retreat
+50.0, 83.7 - Siren's Vigil
+39.8, 86.1 - The Cliffroost
+36.4, 81.7 - Felsoul Hold
+33.4, 72.7 - The Lightbreaker
+21.5, 55.1 - Koralune Manor
+22.4, 49.9 - Ambervale
+22.3, 42.6 - Falanaar Tunnels
+22.6, 40.4 - Temple of Fal'adora
+23.0, 41.7 - Falanaar
+18.4, 39.5 - Moonshade Sanctum
+25.4, 32.4 - Irongrove Retreat
+34.7, 32.8 - Moonwhisper Gulch
+35.9, 46.2 - Ruins of Elune'eth
+41.1, 41.2 - Anora Hollow
+42.8, 38.7 - Tel'anor
+54.2, 41.9 - Warpwind Cliffs
+36.8, 19.1 - The Athenaeum
+40.6, 16.9 - The Lunar Crucible
+37.1, 13.7 - Moon Guard Stronghold
+32.0, 8.8 - Moonfall Overlook
+29.0, 10.9 - Starweaver's Sanctum
+30.8, 17.3 - Moonfall Roost
+28.5, 19.1 - Lower Gardens
+27.3, 20.8 - Moonfall Approach
+18.0, 59.6 - Sundered Shoals
+38.8, 11.4 - Moon Guard Stronghold
+
+/way 63.9, 35.2
+/way 65.9, 51.1
+/way 73.2, 47.8
+/way 74.9, 77.7
+/way 64.0, 69.0
+/way 59.1, 63.5
+/way 56.7, 57.8
+/way 53.3, 59.7
+/way 51.8, 60.8
+/way 50.8, 59.6
+/way 52.7, 59.8
+/way 52.0, 55.7
+/way 48.1, 63.4
+/way 46.3, 61.8
+/way 45.9, 69.8
+/way 46.8, 70.1
+/way 45.4, 75.8
+/way 48.5, 76.1
+/way 49.7, 82.5
+/way 50.0, 83.7
+/way 39.8, 86.1
+/way 36.4, 81.7
+/way 33.4, 72.7
+/way 21.5, 55.1
+/way 22.4, 49.9
+/way 22.3, 42.6
+/way 22.6, 40.4
+/way 23.0, 41.7
+/way 18.4, 39.5
+/way 25.4, 32.4
+/way 34.7, 32.8
+/way 35.9, 46.2
+/way 41.1, 41.2
+/way 42.8, 38.7
+/way 54.2, 41.9
+/way 36.8, 19.1
+/way 40.6, 16.9
+/way 37.1, 13.7
+/way 32.0, 8.8
+/way 29.0, 10.9
+/way 30.8, 17.3
+/way 28.5, 19.1
+/way 27.3, 20.8
+/way 18.0, 59.6
+/way 38.8, 11.4

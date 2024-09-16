@@ -1,0 +1,56 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+29.4, 9.8 - Honeydew Farm
+29.9, 10.3 - Spiritsong River
+31.6, 7.7 - Thunder Hold
+32.6, 11.6 - Spiritsong River
+30.4, 11.0 - Honeydew Glade
+29.2, 19.4 - Ascent of Swirling Winds
+29.5, 23.8 - Strongarm Airstrip
+31.2, 26.5 - The Fertile Copse
+29.9, 34.3 - Path of Enlightenment
+29.0, 32.7 - Circle of Stone
+27.2, 31.9 - Cave of Words
+26.8, 31.9 - Serenity Falls
+26.8, 34.3 - Camp Nooka Nooka
+30.8, 33.9 - Circle of Bone
+31.1, 36.4 - Circle of Blood
+31.1, 38.2 - Tigers' Wood
+27.7, 44.0 - Slicky Stream
+32.2, 50.1 - Dookin' Grounds
+28.8, 54.5 - Scenic Overlook
+41.7, 51.0 - The Silkwood
+48.6, 48.4 - Dawn's Blossom
+41.9, 28.7 - The Ring of Balance
+42.4, 28.9 - Tian Monastery
+43.4, 23.5 - Banquet Grounds
+43.5, 25.1 - The Clarion Bell
+45.6, 20.1 - Terrace of Ten Thunders
+40.6, 10.6 - Tideview Thicket
+63.3, 25.6 - Windward Isle
+56.8, 42.3 - The Arboretum
+56.5, 51.4 - Jade Temple Grounds
+53.6, 64.8 - Orchid Hollow
+55.6, 70.3 - Shang's Valley
+58.5, 69.0 - Tasters' Arena
+60.1, 70.6 - The Bamboo Wilds
+65.6, 79.2 - Den of Sorrow
+67.1, 86.7 - Moonwater Retreat
+64.1, 89.3 - Pearlfin Village
+61.3, 81.5 - Pearl Lake
+53.7, 79.1 - Slingtail Pits
+54.5, 92.6 - Dreamer's Pavilion
+51.0, 91.1 - Wreck of the Vanguard
+48.2, 95.1 - Garrosh'ar Point
+43.3, 88.2 - Paw'don Glade
+44.5, 84.8 - Paw'don Village
+41.5, 84.1 - Twinspire Keep
+44.5, 75.7 - Nectarbreeze Orchard
+41.3, 74.0 - The Splintered Path
+42.0, 69.1 - Serpent's Overlook
+41.5, 69.6 - The Thunderwood
+

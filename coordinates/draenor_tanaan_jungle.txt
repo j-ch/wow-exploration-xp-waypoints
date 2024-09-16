@@ -1,0 +1,59 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+87.8, 41.3 - Tanaan Jungle
+72.5, 57.1 - Tanaan Jungle
+73.1, 68.9 - Zeth'Kur
+66.0, 65.4 - Tanaan Jungle
+63.2, 70.7 - Fang'rila
+55.5, 69.6 - Thornmire
+54.2, 62.8 - Tanaan Jungle
+58.3, 57.2 - Tanaan Jungle
+58.7, 50.9 - Tanaan Jungle
+60.9, 45.0 - Tanaan Jungle
+57.9, 30.6 - The Felblight
+54.7, 27.2 - Throne of Kil'jaeden
+48.0, 37.1 - The Fel Forge
+43.9, 42.0 - Malo's Lookout
+45.3, 52.7 - Hellfire Citadel
+47.6, 67.9 - Vault of the Earth
+43.8, 72.4 - Zorammarsh
+33.5, 73.2 - Temple of Sha'naar
+27.0, 62.4 - Bleeding Hollow Hunting Grounds
+19.6, 66.9 - Rangari Refuge
+13.9, 56.7 - The Iron Front
+15.7, 45.1 - Ruins of Kra'nak
+23.7, 35.8 - Farlight Terrace
+38.7, 35.3 - Ironhold Harbor
+39.3, 46.2 - Lok'goron Foundry
+24.6, 48.3 - Zeth'Gol
+
+/way 87.8, 41.3
+/way 72.5, 57.1
+/way 73.1, 68.9
+/way 66.0, 65.4
+/way 63.2, 70.7
+/way 55.5, 69.6
+/way 54.2, 62.8
+/way 58.3, 57.2
+/way 58.7, 50.9
+/way 60.9, 45.0
+/way 57.9, 30.6
+/way 54.7, 27.2
+/way 48.0, 37.1
+/way 43.9, 42.0
+/way 45.3, 52.7
+/way 47.6, 67.9
+/way 43.8, 72.4
+/way 33.5, 73.2
+/way 27.0, 62.4
+/way 19.6, 66.9
+/way 13.9, 56.7
+/way 15.7, 45.1
+/way 23.7, 35.8
+/way 38.7, 35.3
+/way 39.3, 46.2
+/way 24.6, 48.3

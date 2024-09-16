@@ -1,0 +1,83 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+43.7, 40.4 - The Royal Pond
+43.0, 40.7 - Azsuna
+42.0, 41.3 - Faronaar Front
+39.8, 49.5 - Legion Camp: Chaos
+39.8, 49.7 - Faronaar
+37.3, 55.2 - Legion Camp: Ruin
+34.4, 54.6 - Soul Engine: Apocalypse
+30.2, 52.1 - Trickster's Cut
+41.1, 67.5 - Lithduin Reef
+41.3, 69.4 - Isle of the Watchers
+51.8, 82.3 - Watchers' Aerie
+57.9, 79.4 - Dead Man's Bay
+62.0, 64.6 - Mak'rana
+56.6, 61.0 - Temple of a Thousand Lights
+55.6, 59.5 - Shackle's Den
+53.8, 62.4 - Oceanus Cove
+48.1, 56.3 - Forever Rise
+48.7, 54.8 - Old Coast Path
+55.3, 48.6 - Ruins of Nar'thalas
+55.4, 39.1 - El'dranil Shallows
+60.0, 34.6 - Lyndras' Exile
+60.3, 35.0 - The Greenway
+64.3, 34.9 - The Empyrean Society Enclave
+65.3, 31.1 - Felblaze Ingress
+64.2, 23.7 - Farondale
+58.7, 14.6 - Ley-Ruins of Zarkhenar
+51.2, 16.2 - Rhut'van Passage
+48.6, 24.6 - Leyhollow
+49.5, 23.9 - Azurewing Repose
+46.0, 28.1 - Llothien Highlands
+40.3, 34.1 - Nor'Danil Wellspring
+33.2, 32.1 - Grey Shoals
+35.0, 21.8 - Timeworn Strand
+36.2, 10.9 - Alluvanon's Delta
+38.9, 12.4 - Timeworn Strand
+42.9, 10.8 - The Lost Orchard
+45.8, 14.2 - Azurewing Whelplands
+50.9, 7.9 - The Tidal Marsh
+
+/way 43.7, 40.4
+/way 43.0, 40.7
+/way 42.0, 41.3
+/way 39.8, 49.5
+/way 39.8, 49.7
+/way 37.3, 55.2
+/way 34.4, 54.6
+/way 30.2, 52.1
+/way 41.1, 67.5
+/way 41.3, 69.4
+/way 51.8, 82.3
+/way 57.9, 79.4
+/way 62.0, 64.6
+/way 56.6, 61.0
+/way 55.6, 59.5
+/way 53.8, 62.4
+/way 48.1, 56.3
+/way 48.7, 54.8
+/way 55.3, 48.6
+/way 55.4, 39.1
+/way 60.0, 34.6
+/way 60.3, 35.0
+/way 64.3, 34.9
+/way 65.3, 31.1
+/way 64.2, 23.7
+/way 58.7, 14.6
+/way 51.2, 16.2
+/way 48.6, 24.6
+/way 49.5, 23.9
+/way 46.0, 28.1
+/way 40.3, 34.1
+/way 33.2, 32.1
+/way 35.0, 21.8
+/way 36.2, 10.9
+/way 38.9, 12.4
+/way 42.9, 10.8
+/way 45.8, 14.2
+/way 50.9, 7.9

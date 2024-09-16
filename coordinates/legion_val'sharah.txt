@@ -1,0 +1,81 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+53.4, 88.3 - Lunarwing Shallows
+51.3, 86.0 - Steelclaw Vale
+47.4, 85.0 - Smolderhide Thicket
+45.0, 87.4 - Marrowden
+42.4, 88.6 - Kal'delar
+42.1, 82.3 - Sabermaw Bluff
+40.4, 79.2 - Darkfollow's Spire
+31.6, 73.5 - Val'sharah
+27.3, 69.5 - Gloaming Reef
+36.9, 64.2 - Bradensbrook
+38.3, 61.7 - Marl's Stead
+36.6, 59.5 - Radcliffe Landing
+37.9, 54.7 - Heroes' Rest
+39.5, 53.2 - Black Rook Hold
+45.5, 66.9 - Thas'talah Basin
+47.0, 66.2 - Thas'talah
+47.3, 66.5 - The Hidden Pools
+51.8, 72.9 - Field of Dreamers
+54.7, 73.2 - Lorlathil
+59.5, 75.3 - Whispering Bluffs
+61.6, 75.0 - Moonclaw Vale
+66.7, 72.9 - Grizzleweald
+15.5, 33.8 - Suramar
+66.6, 60.5 - Andu'talah
+65.0, 60.5 - Moonrest
+61.4, 57.7 - Garden of the Moon
+55.0, 54.3 - Temple of Elune
+53.1, 42.7 - Tangled Cleft
+51.5, 42.1 - Emerald Bay
+73.1, 83.5 - The Dreamgrove
+54.2, 50.0 - The Crescent Vale
+63.9, 46.9 - Dreadroot
+63.5, 40.6 - Shala'nir
+65.6, 32.8 - Sylvan Vale
+70.3, 36.4 - Mistvale
+74.1, 36.7 - Ashamane's Fall
+71.3, 34.6 - Emerald Ascent
+
+/way 53.4, 88.3
+/way 51.3, 86.0
+/way 47.4, 85.0
+/way 45.0, 87.4
+/way 42.4, 88.6
+/way 42.1, 82.3
+/way 40.4, 79.2
+/way 31.6, 73.5
+/way 27.3, 69.5
+/way 36.9, 64.2
+/way 38.3, 61.7
+/way 36.6, 59.5
+/way 37.9, 54.7
+/way 39.5, 53.2
+/way 45.5, 66.9
+/way 47.0, 66.2
+/way 47.3, 66.5
+/way 51.8, 72.9
+/way 54.7, 73.2
+/way 59.5, 75.3
+/way 61.6, 75.0
+/way 66.7, 72.9
+/way 15.5, 33.8
+/way 66.6, 60.5
+/way 65.0, 60.5
+/way 61.4, 57.7
+/way 55.0, 54.3
+/way 53.1, 42.7
+/way 51.5, 42.1
+/way 73.1, 83.5
+/way 54.2, 50.0
+/way 63.9, 46.9
+/way 63.5, 40.6
+/way 65.6, 32.8
+/way 70.3, 36.4
+/way 74.1, 36.7
+/way 71.3, 34.6

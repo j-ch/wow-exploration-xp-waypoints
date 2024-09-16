@@ -1,0 +1,101 @@
+WeakAuras 5.17.1 on WoW 110002
+
+Aura: 'map coordinates'
+Version: 1.0.2
+Debug Log:
+Aura loaded
+87.7, 72.4 - Bones of Agurak
+81.5, 73.1 - Agurak's Fall
+85.8, 61.7 - Iron Siegeworks
+79.5, 55.8 - Thunder Pass
+73.7, 59.4 - Wolf's Stand
+75.1, 62.0 - Iron Waystation
+67.1, 67.9 - Grom'gar
+68.8, 67.8 - Southwind Cliffs
+54.6, 70.2 - Shivering Trench
+75.8, 67.6 - Frostwall
+50.4, 59.4 - Frostwall Approach
+40.2, 59.5 - Raider's Hideout
+43.3, 53.7 - Stonefang Outpost
+40.0, 49.8 - The Boneslag
+41.8, 40.5 - Blade's Edge Mountain
+30.5, 51.7 - Mor'dul Tower
+29.2, 52.2 - Forbidden Glacier
+22.8, 56.5 - Wor'gol
+17.9, 45.9 - Gormaul Tower
+22.5, 36.0 - Bladespire Ravine
+51.0, 69.3 - Butcher's Rise
+71.8, 94.7 - Sootstained Mines
+29.8, 42.7 - Sootstained Mining Camp
+76.6, 60.6 - Bladespire Citadel
+26.0, 31.1 - Circle of Blood
+23.4, 21.9 - Lashwind Cleft
+27.5, 18.2 - Frostwind Crag
+28.0, 18.3 - Sleeper's Lair
+28.4, 16.0 - Frost Den
+29.4, 13.1 - Throm'var
+36.8, 14.5 - Bloodmaul Stronghold
+36.7, 23.6 - Daggermaw Ravine
+43.2, 20.7 - Stonefury Cliffs
+51.6, 20.5 - Coldsnap Bluffs
+51.7, 22.0 - Bloodmaul Slag Mines
+58.8, 23.3 - Colossal's Fall
+58.7, 36.0 - The Cracking Plains
+57.4, 40.9 - Farseer's Rock
+51.7, 41.4 - Darkspear's Edge
+61.0, 48.8 - Icewind Drifts
+65.4, 47.3 - Grimfrost Hill
+67.2, 42.2 - Gate of the Breakers
+68.7, 35.5 - Altar of Kron
+69.7, 30.4 - Magnarok
+73.3, 34.7 - Ascent of Frostfire
+72.0, 33.1 - Refuse Pit
+71.2, 46.3 - The Bleeding Mountain
+
+/way 87.7, 72.4
+/way 81.5, 73.1
+/way 85.8, 61.7
+/way 79.5, 55.8
+/way 73.7, 59.4
+/way 75.1, 62.0
+/way 67.1, 67.9
+/way 68.8, 67.8
+/way 54.6, 70.2
+/way 75.8, 67.6
+/way 50.4, 59.4
+/way 40.2, 59.5
+/way 43.3, 53.7
+/way 40.0, 49.8
+/way 41.8, 40.5
+/way 30.5, 51.7
+/way 29.2, 52.2
+/way 22.8, 56.5
+/way 17.9, 45.9
+/way 22.5, 36.0
+/way 51.0, 69.3
+/way 71.8, 94.7
+/way 29.8, 42.7
+/way 76.6, 60.6
+/way 26.0, 31.1
+/way 23.4, 21.9
+/way 27.5, 18.2
+/way 28.0, 18.3
+/way 28.4, 16.0
+/way 29.4, 13.1
+/way 36.8, 14.5
+/way 36.7, 23.6
+/way 43.2, 20.7
+/way 51.6, 20.5
+/way 51.7, 22.0
+/way 58.8, 23.3
+/way 58.7, 36.0
+/way 57.4, 40.9
+/way 51.7, 41.4
+/way 61.0, 48.8
+/way 65.4, 47.3
+/way 67.2, 42.2
+/way 68.7, 35.5
+/way 69.7, 30.4
+/way 73.3, 34.7
+/way 72.0, 33.1
+/way 71.2, 46.3
