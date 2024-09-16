@@ -8,3 +8,6 @@ Aura loaded
 64.7, 74.3 - Tavern in the Mists
 50.8, 60.4 - Gate of Endless Spring
 
+/way 72.5, 73.8
+/way 64.7, 74.3
+/way 50.8, 60.4

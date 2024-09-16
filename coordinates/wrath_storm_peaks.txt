@@ -5,7 +5,6 @@ Version: 1.0.2
 Debug Log:
 Aura loaded
 21.4, 34.6 - Snowdrift Plains
-Aura loaded
 25.4, 33.6 - The Storm Peaks
 30.9, 36.9 - Bouldercrag's Refuge
 34.0, 34.9 - Temple of Wisdom
@@ -57,3 +56,54 @@ Aura loaded
 52.8, 43.2 - Temple of Order
 33.6, 39.6 - Mimir's Workshop
 
+/way 21.4, 34.6
+/way 25.4, 33.6
+/way 30.9, 36.9
+/way 34.0, 34.9
+/way 37.2, 31.3
+/way 40.0, 27.1
+/way 45.2, 21.9
+/way 41.9, 37.2
+/way 39.6, 42.8
+/way 36.9, 49.4
+/way 33.9, 54.2
+/way 26.4, 49.9
+/way 26.2, 61.3
+/way 23.7, 58.3
+/way 26.7, 66.8
+/way 27.2, 69.9
+/way 28.9, 76.4
+/way 30.8, 76.1
+/way 36.9, 77.0
+/way 37.6, 85.5
+/way 32.3, 83.5
+/way 40.8, 85.9
+/way 42.8, 82.1
+/way 35.7, 86.1
+/way 39.5, 86.3
+/way 40.4, 78.0
+/way 46.2, 81.7
+/way 45.5, 74.2
+/way 41.9, 73.7
+/way 42.2, 69.7
+/way 42.6, 64.8
+/way 41.6, 62.4
+/way 41.2, 59.2
+/way 46.8, 54.6
+/way 48.3, 60.9
+/way 47.0, 68.3
+/way 49.4, 68.4
+/way 54.9, 65.5
+/way 63.1, 60.9
+/way 70.8, 61.4
+/way 74.1, 63.1
+/way 72.4, 52.6
+/way 67.6, 50.7
+/way 64.3, 50.2
+/way 64.9, 46.3
+/way 62.5, 41.2
+/way 56.7, 43.4
+/way 52.2, 57.4
+/way 46.7, 49.3
+/way 52.8, 43.2
+/way 33.6, 39.6
